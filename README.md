@@ -1,5 +1,5 @@
-# spark-avro installation in local sytems.
-Creating Avro file using cloudxLab, required packages
+# spark-avro installation in linux or unix sytems.
+Creating Avro file in linux or unix systems, required packages
 
 # Initial step for Git clone link:
 Run the below steps to clone the git repo.
