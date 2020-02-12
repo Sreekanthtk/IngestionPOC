@@ -5,6 +5,7 @@ Creating Avro file using cloudxLab, required packages
 Run the below steps to clone the git repo.
 
 git clone https://github.com/databricks/spark-avro.git
+
 cd spark-avro
 
 # git checkout v2.0.1 
