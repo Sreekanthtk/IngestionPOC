@@ -1,10 +1,12 @@
-# IngestionPOC
+# spark-avro installation in local sytems.
 Creating Avro file using cloudxLab, required packages
 
 # Initial step for Git clone link:
 Run the below steps to clone the git repo.
 
 git clone https://github.com/databricks/spark-avro.git
+
+After cloning run below command
 
 cd spark-avro
 
